@@ -16,7 +16,7 @@ public class Radnik extends Osoba{
         this.placa = placa;
     }
 
-    public boolean equals(Object radnik1){
-        return radnik1.equals(ff.format(getPlaca()));
+    public boolean equals(Object o){
+        return o.equals(ff.format(getPlaca()));
     }
 }

@@ -22,7 +22,7 @@ public class Main {
             }
         }
 
-        if(r<0 || r+nb>n || k+mb>m || k<0){
+        if( r+nb>n || k+mb>m ){
             System.out.println("Neisparavn unos!");
             return;
         }
@@ -45,3 +45,10 @@ public class Main {
 }
 
 //GG
+1 1 1 1
+1 1 1 1
+1 1 1 1
+r: 1
+k:2
+        mb:2
+nb:2

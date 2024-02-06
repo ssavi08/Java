@@ -4,16 +4,15 @@ public class Nit extends Thread{
     String recenica;
 
     Nit(String ime, String recenica){
-    this.ime = ime;
-    this.recenica = recenica;
+        this.ime = ime;
+        this.recenica = recenica;
     }
 
     public void run(){
         String[] rijec = recenica.split("\\s++");
         int broj = 0;
-        char[] samoglasnici = { 'a', 'e', 'i', 'o', 'u'};
         for(String x : rijec){
-            if(x.length()>0 && x.charAt(0)=='a' || x.charAt(0)=='e'|| x.charAt(0)=='i'|| x.charAt(0)=='o'|| x.charAt(0)=='u'){
+            if(x.charAt(0)=='a' || x.charAt(0)=='e'|| x.charAt(0)=='i'|| x.charAt(0)=='o'|| x.charAt(0)=='u'){
                 broj++;
             }
         }
