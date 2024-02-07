@@ -43,12 +43,3 @@ public class Main {
         }
     }
 }
-
-//GG
-1 1 1 1
-1 1 1 1
-1 1 1 1
-r: 1
-k:2
-        mb:2
-nb:2
