@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FERIT.iml" filepath="$PROJECT_DIR$/FERIT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FERIT2.iml" filepath="$PROJECT_DIR$/.idea/FERIT2.iml" />
     </modules>
   </component>
 </project>

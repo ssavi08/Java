@@ -1,0 +1,3 @@
+C:/Users/sandr/IdeaProjects/FERIT/cmake-build-debug/CMakeFiles/FERIT.dir
+C:/Users/sandr/IdeaProjects/FERIT/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sandr/IdeaProjects/FERIT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
